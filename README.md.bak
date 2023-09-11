@@ -25,7 +25,7 @@ To set up the analysis, follow these steps:
 
 Install the "pheatmap" library by Slowikowski et al., 2017 for clustering and creating a heatmap.
 
-bruh R if (!("pheatmap" %in% installed.packages())) { install.packages("pheatmap", update = FALSE) }
+R if (!("pheatmap" %in% installed.packages())) { install.packages("pheatmap", update = FALSE) }
 
 
 ### Import and Set Up Data
